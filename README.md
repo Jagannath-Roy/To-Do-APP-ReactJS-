@@ -47,6 +47,8 @@ todo-app/
 ├── vite.config.js
 └── README.md
 
+---
+
 
 
 
@@ -66,6 +68,8 @@ The app will be available at:
 
 http://localhost:5173
 
+---
+
 
 ##✨ Usage
 
@@ -77,6 +81,7 @@ Use Delete to remove a task.
 
 Use MoveUp and MoveDown to reorder tasks.
 
+---
 
 
 ##🔮 Future Improvements
@@ -91,6 +96,8 @@ Add task categories
 
 Mobile UI improvements
 
+---
+
 ##🤝 Contributing
 
 Contributions are welcome!
@@ -104,6 +111,8 @@ Commit your changes
 Push to the branch
 
 Open a Pull Request
+
+---
 
 ##📜 License
 
