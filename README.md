@@ -56,7 +56,7 @@ todo-app/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Jagannath-Roy/todo-app.git
+git clone https://github.com/Jagannath-Roy/To-Do-APP-ReactJS-.git
 cd todo-app
 ```
 
